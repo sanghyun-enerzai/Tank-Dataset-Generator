@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pycharm
+.idea/
+
+# vscode
+.vscode/
+
+# backgrounds
+backgrounds/*/*.jpg
+
+# created datasets
+tank_coco_*/
